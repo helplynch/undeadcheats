@@ -1,7 +1,6 @@
 print("Whitelist systems are running")
 local verifiedusers = {
-  ["FunnyNitron"] = true,
-  ["lp0nda"] = true,
-  ["soulstraker"] = true,
-  ["ezdubs282"] = true
+  "FunnyNitron",
+  "ezdubs282",
+  "lp0nda"
 }
