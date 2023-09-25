@@ -4,3 +4,4 @@ local verifiedusers = {
   "ezdubs282",
   "lp0nda"
 }
+return verifiedusers
