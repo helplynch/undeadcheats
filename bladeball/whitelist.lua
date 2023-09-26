@@ -3,6 +3,7 @@ local verifiedusers = {
   ["FunnyNitron"] = true,
   ["lp0nda"] = true,
   ["arvnnn"] = true,
-  ["Nopalgg_167"] = true
+  ["Nopalgg_167"] = true,
+  ["LuardFarquad"] = true
 }
 return verifiedusers
